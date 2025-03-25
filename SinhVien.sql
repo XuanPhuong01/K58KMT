@@ -1,0 +1,15 @@
+CREATE TABLE [dbo].[GiaoVien](
+    [magv] VARCHAR(50) NOT NULL,  
+    [hoten] NVARCHAR(50) NULL,
+    [NgaySinh] DATE NULL,
+    [MaBM] VARCHAR(50) NULL, 
+    CONSTRAINT [PK_GiaoVien] PRIMARY KEY CLUSTERED ([magv] ASC)
+);
+GO
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = 'BoMon')
+BEGIN
+    ALTER TABLE [dbo].[GiaoVien]
+    ADD CONSTRAINT [FK_GiaoVien_BoMon] 
+    FOREIGN KEY ([MaBM]) REFERENCES [dbo].[BoMon] ([MaBM]);
+END
+GO
