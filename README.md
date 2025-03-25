@@ -1,4 +1,4 @@
-![z6441121955277_4d028fd3c6b157b56aedc2d3ae993c24](https://github.com/user-attachments/assets/76cb69d9-6189-4b9f-8961-20e89fd4103a)# BÀI TẬP VỀ NHÀ 02 - MÔN HỆ QUẢN TRỊ CSDL:
+# BÀI TẬP VỀ NHÀ 02 - MÔN HỆ QUẢN TRỊ CSDL:
 ## *Bài tập 02 của sv:K225480106054-Nguyễn Thị Xuân Phương-Môn hệ quản trị csdl*
 ## DEADLINE: 23H59 NGÀY 25/03/2025
 
