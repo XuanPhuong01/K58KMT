@@ -72,6 +72,45 @@
 ![z6441097071010_674b1911b835fddda015ae73e6d9bdc9](https://github.com/user-attachments/assets/947cd5b5-cc24-47f9-b42f-3d8239e6b9cf)
 ### *3.Chạy code:*
 ![z6441121955277_4d028fd3c6b157b56aedc2d3ae993c24](https://github.com/user-attachments/assets/5d49e6df-f778-4570-8805-b33326e0c823)
+![z6438594826437_b2cf9ce289218d512df12049a26beb52](https://github.com/user-attachments/assets/7025facd-a75e-43f5-ab6c-c35dcad3364c)
+![z6438596269871_45a013cc01336af84b29d5b4b075cebc](https://github.com/user-attachments/assets/1b49e75b-6577-4746-bc10-963b0bc8145f)
+![z6438597632598_5e1c8d9a540ffcb63641de6cac6eb899](https://github.com/user-attachments/assets/aa4eb13c-ee7c-4743-916c-ea5631adb77d)
+![z6438599005409_794e06abcf7ff98e4b7c5512ce91158d](https://github.com/user-attachments/assets/0d8ebb2d-deab-453b-a331-4f22562e3487)
+![z6438614903307_43f09fe379d1a8ffef2e03e1cc96b437](https://github.com/user-attachments/assets/9ecf56a8-9e40-4786-a4e6-84825342b188)
+![z6438614903307_43f09fe379d1a8ffef2e03e1cc96b437](https://github.com/user-attachments/assets/901a4a1a-1799-42d6-89d7-bba0e6ac9266)
+![z6438620531230_da85d0b6f7d78f0ea88b46ba13e36575](https://github.com/user-attachments/assets/a3b95b1c-572d-4fb3-9c31-51d8789f4031)
+### *4.Check(CK):*
+![z6441129343089_ebeae6630e9fa5ee47caf0a09a4c5dfa](https://github.com/user-attachments/assets/74427cb6-56e4-4c74-8a4e-65b5abbbef42)
+![z6441147736050_be7f862ce16fa649d2fe20ba2bccfe05](https://github.com/user-attachments/assets/f44bf875-654a-4443-b30f-77bb0b29525b)
+![Screenshot 2025-03-25 145616](https://github.com/user-attachments/assets/ccd7763f-c901-4e60-bdb4-1e53f71ee95a)
+![Screenshot 2025-03-25 145634](https://github.com/user-attachments/assets/4b5aa05e-1f9c-4379-8f27-0afaf0a04028)
+![Screenshot 2025-03-25 145624](https://github.com/user-attachments/assets/b817539a-d189-414e-9735-fa9998968118)
+![Screenshot 2025-03-25 145609](https://github.com/user-attachments/assets/98c1fe99-edf2-4b42-be8e-c4580ef546b8)
+![Screenshot 2025-03-25 145601](https://github.com/user-attachments/assets/e20ae771-37ce-45af-9d94-177bd8e9f5ff)
+![Screenshot 2025-03-25 145545](https://github.com/user-attachments/assets/3b95d7e1-2c8f-4b52-8d41-9aa21f4e268e)
+![Screenshot 2025-03-25 145534](https://github.com/user-attachments/assets/b8f7e6f9-5cc3-4c3a-922b-7af32c585bcd)
+![Screenshot 2025-03-25 145513](https://github.com/user-attachments/assets/6d238b67-8e9a-4901-9816-dc245a61b7c3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
