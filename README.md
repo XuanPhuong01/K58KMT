@@ -1,4 +1,4 @@
-# BÀI TẬP VỀ NHÀ 02 - MÔN HỆ QUẢN TRỊ CSDL:
+![z6441121955277_4d028fd3c6b157b56aedc2d3ae993c24](https://github.com/user-attachments/assets/76cb69d9-6189-4b9f-8961-20e89fd4103a)# BÀI TẬP VỀ NHÀ 02 - MÔN HỆ QUẢN TRỊ CSDL:
 ## *Bài tập 02 của sv:K225480106054-Nguyễn Thị Xuân Phương-Môn hệ quản trị csdl*
 ## DEADLINE: 23H59 NGÀY 25/03/2025
 
@@ -66,9 +66,17 @@
 ### *Tạo khóa chính:*
 ![z6441080851286_23bff4032ec962987e2dee27a51a2a90](https://github.com/user-attachments/assets/b712defd-5425-402d-a0b4-643a4fa3af24)
 ### *2.Tạo khóa ngoại:*
-### 2.1 ![z6441089977353_d675b7af5d79bfd9adf12e2395a8a052](https://github.com/user-attachments/assets/e718a0a3-8131-4d6c-bbfb-b43939d587d9)
-### 2.2 ![z6441097071010_674b1911b835fddda015ae73e6d9bdc9](https://github.com/user-attachments/assets/947cd5b5-cc24-47f9-b42f-3d8239e6b9cf)
+### 2.1:
+![z6441089977353_d675b7af5d79bfd9adf12e2395a8a052](https://github.com/user-attachments/assets/e718a0a3-8131-4d6c-bbfb-b43939d587d9)
+### 2.2:
+![z6441097071010_674b1911b835fddda015ae73e6d9bdc9](https://github.com/user-attachments/assets/947cd5b5-cc24-47f9-b42f-3d8239e6b9cf)
 ### *3.Chạy code:*
+![z6441121955277_4d028fd3c6b157b56aedc2d3ae993c24](https://github.com/user-attachments/assets/5d49e6df-f778-4570-8805-b33326e0c823)
+
+
+
+
+
 
 
 
