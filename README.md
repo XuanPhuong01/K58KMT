@@ -63,14 +63,14 @@
 ### *1.10 Bảng DKMH:*
 ![z6438579712216_2ad43338a83d0073ccc8d1dc2391177e](https://github.com/user-attachments/assets/d09121de-043e-454b-a288-88d0e2a656ff)
 -----------------------------------------------------------------------------------------------------------------------------------
-### *Tạo khóa chính:*
+### *2.Tạo khóa chính:*
 ![z6441080851286_23bff4032ec962987e2dee27a51a2a90](https://github.com/user-attachments/assets/b712defd-5425-402d-a0b4-643a4fa3af24)
-### *2.Tạo khóa ngoại:*
-### 2.1:
+### *3.Tạo khóa ngoại:*
+### 3.1:
 ![z6441089977353_d675b7af5d79bfd9adf12e2395a8a052](https://github.com/user-attachments/assets/e718a0a3-8131-4d6c-bbfb-b43939d587d9)
-### 2.2:
+### 3.2:
 ![z6441097071010_674b1911b835fddda015ae73e6d9bdc9](https://github.com/user-attachments/assets/947cd5b5-cc24-47f9-b42f-3d8239e6b9cf)
-### *3.Chạy code:*
+### *4.Chạy code:*
 ![z6441121955277_4d028fd3c6b157b56aedc2d3ae993c24](https://github.com/user-attachments/assets/5d49e6df-f778-4570-8805-b33326e0c823)
 ![z6438594826437_b2cf9ce289218d512df12049a26beb52](https://github.com/user-attachments/assets/7025facd-a75e-43f5-ab6c-c35dcad3364c)
 ![z6438596269871_45a013cc01336af84b29d5b4b075cebc](https://github.com/user-attachments/assets/1b49e75b-6577-4746-bc10-963b0bc8145f)
@@ -79,7 +79,7 @@
 ![z6438614903307_43f09fe379d1a8ffef2e03e1cc96b437](https://github.com/user-attachments/assets/9ecf56a8-9e40-4786-a4e6-84825342b188)
 ![z6438614903307_43f09fe379d1a8ffef2e03e1cc96b437](https://github.com/user-attachments/assets/901a4a1a-1799-42d6-89d7-bba0e6ac9266)
 ![z6438620531230_da85d0b6f7d78f0ea88b46ba13e36575](https://github.com/user-attachments/assets/a3b95b1c-572d-4fb3-9c31-51d8789f4031)
-### *4.Check(CK):*
+### *5.Check(CK):*
 ![z6441129343089_ebeae6630e9fa5ee47caf0a09a4c5dfa](https://github.com/user-attachments/assets/74427cb6-56e4-4c74-8a4e-65b5abbbef42)
 ![z6441147736050_be7f862ce16fa649d2fe20ba2bccfe05](https://github.com/user-attachments/assets/f44bf875-654a-4443-b30f-77bb0b29525b)
 ![Screenshot 2025-03-25 145616](https://github.com/user-attachments/assets/ccd7763f-c901-4e60-bdb4-1e53f71ee95a)
